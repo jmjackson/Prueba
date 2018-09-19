@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDA", "TDA\TDA.csproj", "{423C3727-8B32-4DA6-AD1B-3191840F63DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDALibrary", "TDALibrary\TDALibrary.csproj", "{BEEFDD64-09D9-4EF6-8EC4-70A39B9435E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423C3727-8B32-4DA6-AD1B-3191840F63DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423C3727-8B32-4DA6-AD1B-3191840F63DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423C3727-8B32-4DA6-AD1B-3191840F63DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423C3727-8B32-4DA6-AD1B-3191840F63DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEFDD64-09D9-4EF6-8EC4-70A39B9435E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEFDD64-09D9-4EF6-8EC4-70A39B9435E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEFDD64-09D9-4EF6-8EC4-70A39B9435E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEFDD64-09D9-4EF6-8EC4-70A39B9435E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DE3065-326A-4064-8B66-8E3A8B416DF6}
+	EndGlobalSection
+EndGlobal

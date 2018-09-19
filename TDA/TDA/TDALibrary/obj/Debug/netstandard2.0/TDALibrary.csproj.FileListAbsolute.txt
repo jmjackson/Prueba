@@ -1,0 +1,9 @@
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\bin\Debug\netstandard2.0\TDALibrary.deps.json
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\bin\Debug\netstandard2.0\TDALibrary.dll
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\bin\Debug\netstandard2.0\TDALibrary.pdb
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.csprojAssemblyReference.cache
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.AssemblyInfoInputs.cache
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.AssemblyInfo.cs
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.dll
+C:\Users\admin-jm\Documents\Source\TDA\TDA\TDALibrary\obj\Debug\netstandard2.0\TDALibrary.pdb
